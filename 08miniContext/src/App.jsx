@@ -1,5 +1,5 @@
 import "./App.css";
-import Login from "./component/login";
+import Login from "./component/Login";
 import Profile from "./component/Profile";
 import UserContextProvider from "./context/UserContextProvider";
 
